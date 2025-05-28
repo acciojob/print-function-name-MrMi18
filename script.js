@@ -1,4 +1,4 @@
-function  name() {
+function  functionName() {
  alert(arguments.callee.name)
 }
- name()
+ functionName()
